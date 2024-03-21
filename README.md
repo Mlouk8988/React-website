@@ -4,7 +4,7 @@ Welcome to the Health Plus project repository! This is a React-based website aim
 
 ## Project Overview
 
-- **Website**: [Health Plus](https://alkaison.github.io/Health-Plus/ "Health Plus")
+- **Website**: [https://mlouk8988.github.io/ismail-ait-mlouk/]
 - **Framework**: React.js
 - **Deployment**: GitHub Pages
 - **Libraries**: React-Toastify, React Router DOM, FontAwesomeIcon
@@ -59,7 +59,7 @@ Welcome to the Health Plus project repository! This is a React-based website aim
 
 To run the project locally:
 
-1. Clone this repository: `git clone https://github.com/Alkaison/Health-Plus.git`
+1. Clone this repository: `git clone https://github.com/Mlouk8988/React-website.git`
 2. Navigate to the project directory: `cd Health-Plus`
 3. Install dependencies: `npm install`
 4. Start the development server: `npm start`
